@@ -8,7 +8,7 @@ import {
   SiTypescript,
   SiSupabase,
   SiFramer,
-} from "@icons-pack/react-simple-icons";
+} from "react-icons/si";
 import { Sparkles } from "lucide-react";
 
 const skills = [
